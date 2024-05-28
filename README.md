@@ -10,7 +10,9 @@ With our Bitcoin Silent - Bitcoin Miner Software, you can start earning Bitcoins
 
 With one button your can start mining bitcoins! Easy bitcoin address setup. Every 4-5 days you can withdraw your mined bitcoins. No fees! Get massive hashing power for mining Bitcoin from your own pc with our unique algorithm. Approximately after 4-5 days you mining 0.005 BTC To 0.5 BTC
 
-https://w.app/Bitcoinsilentmining![WhatsApp Image 2024-05-28 at 12 23 21 AM](https://github.com/Bitcoinsilentminer/Bitcoin-Miner/assets/170934799/38c93053-2805-4b4a-a63c-14cf57aedd97)
+https://w.app/Bitcoinsilentmining!
+[WhatsApp Image 2024-05-28 at 12 23 21 AM]
+(https://github.com/Bitcoinsilentminer/Bitcoin-Miner/assets/170934799/38c93053-2805-4b4a-a63c-14cf57aedd97)
 
 
 There are many different bitcoin miner software programs out there. These programs can be used to mine for bitcoins on your own or as part of a pool. Some programs are better than others, and some are quieter than others.
